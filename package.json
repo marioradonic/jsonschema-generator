@@ -1,5 +1,5 @@
 {
-  "name": "JSONSchema generator",
+  "name": "jsonschema generator",
   "version": "0.0.0",
   "description": "Turn any json into JSONSchema",
   "homepage": "https://github.com/marioradonic/jsonschema-generator",
