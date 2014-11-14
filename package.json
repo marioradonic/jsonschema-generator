@@ -2,13 +2,23 @@
   "name": "JSONSchema generator",
   "version": "0.0.0",
   "description": "Turn any json into JSONSchema",
+  "homepage": "https://github.com/marioradonic/jsonschema-generator",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node spec/"
   },
   "author": "Mario Radonic",
   "license": "ISC",
   "devDependencies": {
     "jasmine-node": "^1.14.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marioradonic/jsonschema-generator"
+  },
+  "keywords": [
+    "JSONSchema",
+    "JSON",
+    "generator"
+  ]
 }
